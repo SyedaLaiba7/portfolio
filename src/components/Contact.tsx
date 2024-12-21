@@ -5,7 +5,7 @@ import { BsTelephoneForwardFill } from "react-icons/bs";
 const Contact = () => {
   return (
     <div id='contact' className='pt-32 container'>
-        <div className='grid grid-cols-2 gap-10'>
+        <div className='grid md:grid-cols-2 gap-10'>
             <div className='space-y-8'>
                 <h2 className='text-6xl font-serif text-[#1F260F] 'data-aos="zoom-in-up">Get in touch</h2>
                 <p className=' text-[18px] pt-2 text-xl text-[#4E5927]  font-serif 'data-aos="zoom-in-up">
